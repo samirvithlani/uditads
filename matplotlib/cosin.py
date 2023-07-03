@@ -4,6 +4,7 @@ x = np.arange(0,3*np.pi,0.1)
 y_sin = np.sin(x)
 y_cos = np.cos(x)
 
+plt.figure(figsize=(5,4))
 plt.subplot(2,1,1)
 plt.plot(x,y_sin)
 plt.title('Sine')
