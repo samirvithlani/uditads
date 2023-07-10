@@ -1,0 +1,22 @@
+years
+
+sales
+
+20 years --> 5 
+
+2001 to 5
+6 to 10
+11 to 15
+16 to 20
+
+--------------
+
+ipl
+
+dfml 8 9 10
+TEAMS
+PLAYERS
+score display
+1 column --> heighest score
+
+
